@@ -2,7 +2,6 @@
 
 Let'em Cook is a full-stack recipe sharing application that enables users to share their favorite recipes, browse others' recipes, create meal plans, and generate grocery lists. Built with TypeScript and Refine framework, Let'em Cook is a great example of a modern, performant, and scalable MERN stack application.
 
-You can visit the deployed version of Let'em Cook at [https://letem-cook.netlify.app](https://letem-cook.netlify.app/). Please note that the backend of the application is hosted on render.com's free tier, which shuts down when not in use. As a result, the application might take a few minutes to activate if it hasn't been used in a while.
 
 ## Features
 
@@ -123,11 +122,4 @@ If you want to run it on your local machine, please follow the steps below.
 
 8.  Open [http://localhost:3000](http://localhost:3000/) in your browser to see the app
 
-## License
 
-Distributed under the MIT License. See `LICENSE` for more information.
-
-## Contact
-
--   Email: [yupakhei456@gmail.com](mailto:youremail@example.com)
--   GitHub: [https://github.com/HarryYu02](https://github.com/%7Busername%7D)
